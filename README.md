@@ -1,2 +1,10 @@
 # flags-2-env-test.github.io
 Astro test-boundary site for flags-2-env-test
+
+## Role
+
+GitHub Pages site for the `flags-2-env-test` organization.
+
+Part of the [`flags-2-env-test`](https://github.com/flags-2-env-test) organization.
+
+Cross-language contracts in this organization are governed by human-authored TypeSpec and human-authored JSON Schema Draft 2020-12 as **independent peer authorities**, with parity enforced by [`ORESoftware/typespec-json-schema-validator`](https://github.com/ORESoftware/typespec-json-schema-validator); generated schemas and clients are comparison evidence only, never a third authority.
